@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Ross Mosher
+💫 About Me:
+I am a computer science graduate from Edge Hill University, passionate about exploring the realms of coding, wed development, and building robust applications.
 
-<!--
-**rossm932/rossm932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Up To
+🤖 Seeking Graduate/Junior Software Developer/Engineering Roles
+💻 Having a crack at building a sports betting bot using AI and ML
+Looking to collaborate with likeminded individuals building problem-solving applications and websites.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 About Me
+I'm also passionate about weightlifting, Fitness, MMA, Finance, and Crypto!
+
+
+🌐 Connect with me:
+LinkedIn
+
+💻 Tech Stack:
+Languages: Python PHP Java SQL HTML5 CSS JavaScript C#
+
+Developer Tools: Git, Sourcetree, Jira, Confluence, BitBucket, Expo Tools
+
+Libraries/Frameworks: React Native, NodeJS, Tailwind CSS
