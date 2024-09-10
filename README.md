@@ -2,7 +2,7 @@
 💫 About Me:
 I am a computer science graduate from Edge Hill University, passionate about exploring the realms of coding, web development, and building robust applications.
 
-🚀 What I'm currently Up To:
+🚀 What I'm currently up to:
 
 🤖 Seeking Graduate/Junior Software Developer/Engineering Roles
 
