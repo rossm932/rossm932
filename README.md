@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ross Mosher
 💫 About Me:
-I am a computer science graduate from Edge Hill University, passionate about exploring the realms of coding, web development, and building robust applications.
+I am a computer science graduate, Computing BSc (Hons), from Edge Hill University with a year of industry experience as a Software Developer for the NHS (The Walton Centre Trust), passionate about exploring the realms of coding, web development, and building robust applications.
 
 🚀 What I'm currently up to:
 
