@@ -18,6 +18,7 @@ I'm also passionate about weightlifting, Fitness, MMA, Finance, and Crypto!
 LinkedIn - https://www.linkedin.com/in/rossmosher/
 
 💻 Tech Stack:
+
 Languages: Python PHP Java SQL HTML5 CSS JavaScript C#
 
 Developer Tools: Git, Sourcetree, Jira, Confluence, BitBucket, Expo Tools
