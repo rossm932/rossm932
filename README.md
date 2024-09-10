@@ -15,7 +15,7 @@ I'm also passionate about weightlifting, Fitness, MMA, Finance, and Crypto!
 
 
 🌐 Connect with me:
-LinkedIn
+LinkedIn - https://www.linkedin.com/in/rossmosher/
 
 💻 Tech Stack:
 Languages: Python PHP Java SQL HTML5 CSS JavaScript C#
