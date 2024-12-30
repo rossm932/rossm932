@@ -4,7 +4,7 @@ I am a computer science graduate, Computing BSc (Hons), from Edge Hill Universit
 
 🚀 What I'm currently up to:
 
-🤖 Working as a Junior Software at Experis, to then be deployed for OpenText
+🤖 Working as a Junior Software Developer at Experis, to then be deployed for OpenText
 
 💻 Having a go at building a sports betting bot using AI and ML. 
 & Looking to collaborate with like-minded individuals in building problem-solving applications and websites.
