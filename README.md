@@ -23,4 +23,4 @@ Languages: Python PHP Java SQL HTML5 CSS JavaScript C#
 
 Developer Tools: Git, Sourcetree, Jira, Confluence, BitBucket, Expo Tools
 
-Libraries/Frameworks: React Native, NodeJS, Tailwind CSS
+Libraries/Frameworks: Angular, React Native, NodeJS, Tailwind CSS, Spring, Spring Boot
