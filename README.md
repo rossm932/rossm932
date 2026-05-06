@@ -6,7 +6,7 @@ I am a computer science graduate, Computing BSc (Hons), from Edge Hill Universit
 
 🤖 Working as a Junior Software Developer at Experis, to then be deployed for OpenText
 
-💻 Having a go at building a sports betting bot using AI and ML. 
+💻 Attempting to format a futures trading strategy within a bot that trades for me.
 & Looking to collaborate with like-minded individuals in building problem-solving applications and websites.
 
 
